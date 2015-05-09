@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>src/icons/arrow_redo.png</file>
+        <file>src/icons/arrow_undo.png</file>
+        <file>src/icons/copy.png</file>
+        <file>src/icons/cut.png</file>
+        <file>src/icons/info.png</file>
+        <file>src/icons/new_file.png</file>
+        <file>src/icons/open.png</file>
+        <file>src/icons/paste.png</file>
+        <file>src/icons/save_as.png</file>
+        <file>src/icons/save.png</file>
+    </qresource>
+    <qresource prefix="/AppIcon">
+        <file>notepad.icns</file>
+    </qresource>
+</RCC>
