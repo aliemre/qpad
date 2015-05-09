@@ -1,2 +1,2 @@
 # QPad
-Basic NotePad App
+Basic NotePad App for Mac OS X
